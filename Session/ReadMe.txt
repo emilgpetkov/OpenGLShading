@@ -5,6 +5,8 @@ ReadMe Notes
 The source code of the application is placed in the <name_of_the_application>/Session
 Each of the projects is placed in its own directory.
 
+Please find CMakeLists.txt files in each directory and adjust its paths in order that they conform your environment.
+
 ==============================
 
 Projects top-to-bottom:
